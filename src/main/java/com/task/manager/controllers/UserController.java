@@ -1,6 +1,6 @@
 package com.task.manager.controllers;
 
-import com.task.manager.models.Users;
+import com.task.manager.models.users.Users;
 import com.task.manager.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
